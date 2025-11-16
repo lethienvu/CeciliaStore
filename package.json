@@ -1,0 +1,28 @@
+{
+  "name": "cecilia-invoice-manager",
+  "version": "1.0.0",
+  "description": "Hệ thống quản lý hóa đơn dược mỹ phẩm Cecilia",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "npx http-server -p 8000 -c-1"
+  },
+  "keywords": [
+    "cecilia",
+    "invoice",
+    "management",
+    "google-sheets",
+    "spa",
+    "vietnamese"
+  ],
+  "author": "Lê Thiên Vũ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lethienvu/cecilia-invoice-manager.git"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
