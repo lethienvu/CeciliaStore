@@ -4,7 +4,7 @@
 
 export const CONFIG = {
   // Google API Configuration
-  GOOGLE_API_KEY: "YOUR_GOOGLE_API_KEY", // Thay bằng API key thực tế
+  GOOGLE_API_KEY: "AIzaSyD43-TMzUcd7_gSJ5HyKCu-nXR2np4LWys", // Thay bằng API key thực tế
   GOOGLE_CLIENT_ID: "YOUR_CLIENT_ID.apps.googleusercontent.com", // Thay bằng Client ID thực tế
   GOOGLE_DISCOVERY_DOCS: [
     "https://sheets.googleapis.com/$discovery/rest?version=v4",
@@ -12,7 +12,7 @@ export const CONFIG = {
   GOOGLE_SCOPES: "https://www.googleapis.com/auth/spreadsheets",
 
   // Google Sheets Configuration
-  SPREADSHEET_ID: "YOUR_SPREADSHEET_ID", // Thay bằng ID của Google Sheet
+  SPREADSHEET_ID: "1x8RPrhWVujhxEAxXaJzT8j0AvfAh1mChrrgaq7RBnMA", // Thay bằng ID của Google Sheet
   SHEETS: {
     INVOICES: "Invoices",
     INVOICE_DETAILS: "InvoiceDetails",

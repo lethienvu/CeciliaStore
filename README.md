@@ -101,7 +101,7 @@ pharmacy-invoice-manager/
 3. (Khuyến nghị) Restrict API key:
    - Application restrictions: HTTP referrers
    - API restrictions: Google Sheets API
-4. Copy API Key
+4. Copy API Key: AIzaSyD43-TMzUcd7_gSJ5HyKCu-nXR2np4LWys
 
 #### OAuth 2.0 Client ID
 
